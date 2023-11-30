@@ -1,6 +1,6 @@
 {
   "name": "@oolio-group/apollo-prometheus-exporter",
-  "version": "2.0.14",
+  "version": "2.0.15",
   "description": "Plugin for Apollo Server to export metrics in Prometheus format",
   "keywords": [
     "apollo",
